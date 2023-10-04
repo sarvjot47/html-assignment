@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>student</title>
+    </head> <body>
+    <h1>My photos </h1>
+    
+    
+    <table>
+    <caption><strong>student</strong></caption>
+    <th>First name</th>
+    <th>last name</th>
+    <th>age</th>
+    <th>gender</th>
+    </tr>
+    <tr>
+    <td>SARVJOT</td>
+    <td>SINGH</td>
+    <td>20</td>
+    <td>MALE</td>
+    </table>
+    </p1>
+    <p2>
+    
+    <IMG SRC= file:///Users/manusaini/Downloads/jpeg.jpeg alt="my picture">
+        
+    </p2>
+    
+    
+    <p3>
+    <br>
+    <strong>HOBBIES</strong>
+    <ol>
+        <LI>Spending time with friends</LI>
+    <li>Music</li>
+    <li>Travelling</li>
+    </O>
+    </p3>
+    </body> </html>
